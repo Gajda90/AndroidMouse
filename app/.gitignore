@@ -1,0 +1,49 @@
+# =========================================
+# Pliki generowane przez system budowania
+# =========================================
+/build/
+.gradle/
+captures/
+
+# =========================================
+# Pliki lokalne IDE (Android Studio / IntelliJ)
+# =========================================
+# Te pliki zawierają lokalne ustawienia, których nie należy udostępniać.
+.idea/
+*.iml
+*.nav_ ausgeschlossene_dateien
+
+# Nie udostępniaj lokalnych właściwości, mogą zawierać klucze API!
+local.properties
+
+# =========================================
+# Pliki generowane przez system operacyjny
+# =========================================
+# Pliki systemowe macOS
+.DS_Store
+# Pliki systemowe Windows
+Thumbs.db
+
+# =========================================
+# Pliki raportów i logów
+# =========================================
+*.log
+*.hprof
+*.prof
+
+# =========================================
+# Pliki środowiska wirtualnego Pythona (dla serwera)
+# =========================================
+# Ignoruj folder .venv, w którym znajdują się biblioteki Pythona
+# dla serwera. Nazwa folderu może się różnić.
+.venv/
+AndroidMouse Alfa/.venv/
+**/__pycache__/
+
+# =========================================
+# Inne
+# =========================================
+# Zarchiwizowane pliki
+*.zip
+*.rar
+

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AndroidMouse</string>
+    <string name="left_click">Lewy Klik</string>
+    <string name="right_click">Prawy Klik</string>
+</resources>
