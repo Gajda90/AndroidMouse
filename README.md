@@ -86,3 +86,9 @@ Aplikacja wysyła dane o dotyku, przesunięciach i kliknięciach poprzez Bluetoo
 -   Planowane jest  dodanie przycisków sumulujących kółko myszy orac pasek przewijania.
 -   Planowane jest dodanie funkcji przewijania dwoma palcami oraz regulacji czułości kursora.
 -   Planowane jest zintegrowanie serwera do paczki .apk
+
+## Screeny z wersji aplikacji
+
+<img width="428" height="891" alt="image" src="https://github.com/user-attachments/assets/861ce88f-6f9a-47ed-8958-3a639ce43d95" />
+
+<img width="826" height="535" alt="image" src="https://github.com/user-attachments/assets/14414fec-ed62-4380-a305-97fe642ede93" />
